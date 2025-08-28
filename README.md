@@ -405,13 +405,13 @@ A well-built marketing plan details:
 
 - [**Earned:**]() Organic word-of-mouth (reviews, shares, SEO).
 
-<br><br>
+<br>
 
 ### [Reflection:]() Applying Marketing 4.0 to Improve Customer Experience
 
-[**Key applications for companies:**]()
-
 <br>
+
+[**Key applications for companies:**]()
 
 - Embrace new digital realities and build deeper customer relationships using data, technology, and personalization.
 
@@ -423,15 +423,12 @@ A well-built marketing plan details:
 
 - Consistently measure and improve the customer experience to strengthen loyalty and brand advocacy.
 
-<br>
+<br><br>
 
 [**Conclusion:**]() 
 Strategic planning in Marketing 4.0 enables companies to adapt to a digital-first world, increase connection with customers, and remain competitive by delivering real value, personalization, and trust.
 
-<br>
-
-### [For Reflection]()
-
+[For Reflection]()
 Marketing 4.0 represents a shift from product-focused to customer-centric marketing. It emphasizes authentic, technology-enabled connections supported by data-driven insights. Successful adoption requires integrating traditional and digital strategies, harvesting actionable data, and continuously adapting to meet evolving customer expectations to build enduring brand loyalty.
 
 
