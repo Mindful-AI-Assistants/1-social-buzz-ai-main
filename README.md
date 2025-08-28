@@ -326,7 +326,7 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 <br>
 
-## Customer Journeys
+## [Customer Journeys]()
 
 The **Customer Journey** maps all points of contact and interactions a customer has with a brand before, during, and after a purchase.
 
@@ -363,18 +363,58 @@ To succeed with Marketing 4.0, consider:
 - Highly personalized and engaging campaigns
 - Successful companies (example: Nubank) utilize digital convenience, transparency, and customer-driven strategies
 
+
 <br>
 
+---
+
+## The 4 Cs of Marketing 4.0 (Kotler)
+
+Kotler's 4 Cs shift the focus from the classic 4 Ps to consumer-centricity:
+
+| Traditional 4 Ps    | Modern 4 Cs (Kotler)             |
+|---------------------|----------------------------------|
+| Product             | Customer (Needs & Wants)         |
+| Price               | Cost (To Satisfy the Customer)   |
+| Place               | Convenience (Ease of Purchase)   |
+| Promotion           | Communication (Two-way, Engaging)|
+
+- **Customer:** Deep understanding of consumer needs is at the center.
+- **Convenience:** Make products/services easily accessible and simple to acquire.
+- **Cost:** Address perceived value, not just price.
+- **Communication:** Prioritize interactive, real, and transparent communication.
 
 
-'
-'
+<br>
 
+## The Marketing 4.0 Plan
 
+A well-built marketing plan details:
 
+1. **Market Analysis** – Researching consumer behavior and trends.
+2. **Goal Setting** – Defining clear, specific, and measurable objectives.
+3. **Strategy & Tactics** – Coordinating actions across digital and traditional channels.
+4. **Technology Implementation** – Using CRM, marketing automation, and analytics platforms.
+5. **Continuous Measurement** – Monitoring KPIs, ROI, and making rapid adjustments.
 
+**Types of Digital Presence:**
+- **Owned:** Channels controlled by the company (website, social media).
+- **Paid:** Acquired reach (ads, sponsored content).
+- **Earned:** Organic word-of-mouth (reviews, shares, SEO).
 
+<br>
 
+## Reflection: Applying Marketing 4.0 to Improve Customer Experience
+
+**Key applications for companies:**
+- Embrace new digital realities and build deeper customer relationships using data, technology, and personalization.
+- Use personas and journey mapping to identify and address pain points.
+- Personalize communication using data-driven insights and automation.
+- Foster authentic engagement and create compelling experiences across all digital and offline touchpoints.
+- Consistently measure and improve the customer experience to strengthen loyalty and brand advocacy.
+
+**Conclusion:**  
+Strategic planning in Marketing 4.0 enables companies to adapt to a digital-first world, increase connection with customers, and remain competitive by delivering real value, personalization, and trust.
 
 <br>
 
@@ -384,6 +424,7 @@ Marketing 4.0 represents a shift from product-focused to customer-centric market
 
 
 <br><br>
+
 
 ## III - [Segmentation - Why and How to Segment]()
 
