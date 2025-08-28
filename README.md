@@ -323,7 +323,7 @@ Marketing 4.0 represents a shift from product-focused to customer-centric market
 
 <br><br>
 
-## III - [Segmentation - Why and How Segment]()
+## III - [Segmentation - Why and How to Segment]()
 
 <br>
 
