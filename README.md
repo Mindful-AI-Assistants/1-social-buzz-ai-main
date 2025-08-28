@@ -366,9 +366,7 @@ To succeed with Marketing 4.0, consider:
 
 <br>
 
----
-
-## The 4 Cs of Marketing 4.0 (Kotler)
+## [The 4 Cs of Marketing 4.0 (Kotler)]()
 
 Kotler's 4 Cs shift the focus from the classic 4 Ps to consumer-centricity:
 
@@ -387,33 +385,47 @@ Kotler's 4 Cs shift the focus from the classic 4 Ps to consumer-centricity:
 
 <br>
 
-## The Marketing 4.0 Plan
+### [The Marketing 4.0 Plan]()
 
 A well-built marketing plan details:
 
-1. **Market Analysis** – Researching consumer behavior and trends.
-2. **Goal Setting** – Defining clear, specific, and measurable objectives.
-3. **Strategy & Tactics** – Coordinating actions across digital and traditional channels.
-4. **Technology Implementation** – Using CRM, marketing automation, and analytics platforms.
-5. **Continuous Measurement** – Monitoring KPIs, ROI, and making rapid adjustments.
+1. [**Market Analysis**]() – Researching consumer behavior and trends.
+2. [**Goal Setting**]() – Defining clear, specific, and measurable objectives.
+3. [**Strategy & Tactics**]() – Coordinating actions across digital and traditional channels.
+4. [**Technology Implementation**]() – Using CRM, marketing automation, and analytics platforms.
+5. [**Continuous Measurement**]() – Monitoring KPIs, ROI, and making rapid adjustments.
 
-**Types of Digital Presence:**
-- **Owned:** Channels controlled by the company (website, social media).
-- **Paid:** Acquired reach (ads, sponsored content).
-- **Earned:** Organic word-of-mouth (reviews, shares, SEO).
+<br><br>
+
+[**Types of Digital Presence:**]()
+
+- [**Owned:**]() Channels controlled by the company (website, social media).
+
+- [**Paid:**]() Acquired reach (ads, sponsored content).
+
+- [**Earned:**]() Organic word-of-mouth (reviews, shares, SEO).
+
+<br><br>
+
+### [Reflection:]() Applying Marketing 4.0 to Improve Customer Experience
+
+[**Key applications for companies:**]()
 
 <br>
 
-## Reflection: Applying Marketing 4.0 to Improve Customer Experience
-
-**Key applications for companies:**
 - Embrace new digital realities and build deeper customer relationships using data, technology, and personalization.
+
 - Use personas and journey mapping to identify and address pain points.
+
 - Personalize communication using data-driven insights and automation.
+
 - Foster authentic engagement and create compelling experiences across all digital and offline touchpoints.
+
 - Consistently measure and improve the customer experience to strengthen loyalty and brand advocacy.
 
-**Conclusion:**  
+<br>
+
+[**Conclusion:**]() 
 Strategic planning in Marketing 4.0 enables companies to adapt to a digital-first world, increase connection with customers, and remain competitive by delivering real value, personalization, and trust.
 
 <br>
