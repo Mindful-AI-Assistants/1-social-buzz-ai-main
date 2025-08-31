@@ -551,12 +551,23 @@ Net profit contribution of a customer across their relationship with the company
 
 LTV = \( 1,000 \times 2 \times 5 = \$10,000 \)
 
+
 <br><br>
 
 
-<br<br>
 
-## IV - [Segmentation - RFV (Ressence - Frequence - Value) Code and  Project]() 
+## IV - [Segmentation - RFV (Ressence - Frequence - Value) and RMV (Monetary Value Code and  Project]() 
+
+
+> [!TIP]
+>
+> [Access Code]()
+> 
+> [Access Excel Table Results]() 
+> 
+
+
+<br>
 
 
 ### RFV — Recency, Frequency, Value
@@ -565,7 +576,9 @@ LTV = \( 1,000 \times 2 \times 5 = \$10,000 \)
 - **Frequency:** How often customer buys (more frequent = higher score)
 - **Value:** How much customer spends (higher value = higher score)
 
+
 <br>
+
 
 | Score | Recency                             | Frequency                            | Monetary Value                        |
 |-------|-------------------------------------|--------------------------------------|---------------------------------------|
