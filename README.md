@@ -468,7 +468,7 @@ This guide summarizes and explains the essential concepts of market segmentation
 
 <br>
 
-## Why Segment?
+## [Why Segment ?]()
 
 Segmentation allows companies to identify and prioritize the most attractive market segments and fortify their position within these segments.
 
@@ -477,12 +477,21 @@ Segmentation allows companies to identify and prioritize the most attractive mar
 - **Competitive Advantage:** Targeted efforts provide greater perceived value, increasing customer loyalty and referrals, which leads to greater market share and profits over time.
 - **Decreasing Marketing Effort:** As loyalty grows, less marketing effort is needed for the same or higher profitability.
 
-> *"The company segments the market, chooses the best segments, and strengthens its position in these best segments."*  
-> — Kotler (2021)
 
 <br>
 
-## The STP Model
+> [!IMPORTANT]
+>
+> *"The company segments the market, chooses the best segments, and strengthens its position in these best segments."*  
+>
+> — Kotler (2021)
+>
+
+
+<br>
+
+
+## [The STP Model]()
 
 - **Segmentation:** Identify different audiences.
 - **Targeting:** Prioritize the most attractive segments.
@@ -513,7 +522,7 @@ Segmentation allows companies to identify and prioritize the most attractive mar
 
 <br>
 
-## Segmentation by Customer Needs
+## [Segmentation by Customer Needs]()
 
 <br>
 
@@ -535,11 +544,11 @@ Segmentation allows companies to identify and prioritize the most attractive mar
 
 <br>
 
-## Key Metrics: CLV and RFV
+## [Key Metrics: CLV and RFV]()
 
 ### CLV — Customer Lifetime Value
 
-**Definition:**  
+[**Definition:**]()  
 Net profit contribution of a customer across their relationship with the company.
 
 <br>
@@ -555,7 +564,8 @@ Net profit contribution of a customer across their relationship with the company
 
 <br>
 
-**Example:**  
+[**Example:**]()  
+
 - Annual purchases: 2  
 - Avg. spend per purchase: \$1,000  
 - Relationship: 5 years
@@ -583,31 +593,36 @@ LTV = \( 1,000 \times 2 \times 5 = \$10,000 \)
 <br>
 
 
-### RFV — Recency, Frequency, Value
+### [RFV — Recency, Frequency, Value]()
 
-- **Recency:** How recently a customer made a purchase (more recent = higher score)
-- **Frequency:** How often customer buys (more frequent = higher score)
-- **Value:** How much customer spends (higher value = higher score)
+- [**Recency:**]() How recently a customer made a purchase (more recent = higher score)
+
+- [**Frequency:**]() How often customer buys (more frequent = higher score)
+
+- [**Value:**]() How much customer spends (higher value = higher score)
 
 
 <br>
 
 
-| Score | Recency                             | Frequency                            | Monetary Value                        |
-|-------|-------------------------------------|--------------------------------------|---------------------------------------|
-| 5     | Purchased in last month             | 21–25 times/month                    | Among top 5% spenders                 |
-| 4     | Within last 3 months                | 16–20 times/month                    | Top 20% spenders                      |
-| 3     | Within last 6 months                | 11–15 times/month                    | Top 30% spenders                      |
-| 2     | Within last year                    | 6–10 times/month                     | Top 60% spenders                      |
-| 1     | More than a year ago                | Not bought last year                 | Lowest spenders                       |
+| [Score]() | [Recency]()                             | [Frequency]()                    | [Monetary Value]()                    |
+|----------  |-------------------------------------|--------------------------------------|---------------------------------------|
+| 5         | Purchased in last month             | 21–25 times/month                    | Among top 5% spenders                 |
+| 4         | Within last 3 months                | 16–20 times/month                    | Top 20% spenders                      |
+| 3         | Within last 6 months                | 11–15 times/month                    | Top 30% spenders                      |
+| 2         | Within last year                    | 6–10 times/month                     | Top 60% spenders                      |
+| 1         | More than a year ago                | Not bought last year                 | Lowest spenders                       |
 
 Customers are segmented by their RFV profile, allowing for tailored marketing and relationship strategies.
 
 <br>
 
-## RFV Segmentation Example
+## [RFV Segmentation Example]()
+
+<br>
 
 A 5x5 RFV matrix is used to segment and identify customer groups such as:
+
 - "Champions"
 - "Loyal Customers"
 - "Promising Customers"
@@ -620,68 +635,86 @@ Each group gets different marketing approaches according to their RFV profile.
 
 <br>
 
-## CLV vs. RFV
+## [CLV vs. RFV]()
+
+<br>
 
 | Metric | Usage | When to Use |
 |--------|-------|-------------|
 | **Customer Lifetime Value (CLV)** | Measures customer’s long-term value for strategic decisions, targeted marketing, and retention. | When individual customer value is crucial for resource allocation. |
 | **Recency, Frequency, Value (RFV)** | Segments customers by recent behavior, for personalized campaigns and identifying best cross/upsell opportunities. | When tailoring communication/campaigns for groups with similar shopping behavior. |
 
-**Combined Usage:**  
+<br>
+
+[**Combined Usage:**[]() 
+
 - RFV segments customers;  
 - CLV values each segment for fully-informed marketing and retention strategies.
 
 
 <br>
 
-## Segmentation Models
+## [Segmentation Models]()
 
-### When Data Is Available:
+### [When Data Is Available:]()
 
 Statistical techniques and Machine Learning can be applied to mine the data and extract business value.
 
 <br>
 
-### Primary Segmentation Questions
+### [Primary Segmentation Questions]()
 
 1. Are there different customer profiles in our base (if yes, how many)?
 2. Among our customers, who is most likely to churn in the coming months?
 
 <br>
 
-### Types of Segmentation Models
+### [Types of Segmentation Models ]()
 
-#### 1. Supervised Learning (Classification & Regression)
+#### 1. [Supervised Learning (Classification & Regression)]()
 
 <br>
 
 - Requires a “teacher” or labeled outcome.
+
 - Answers questions like:
     - Who are loyal vs. non-loyal customers based on demographics?
     - Who is at higher risk of churn?
     - Who is likely to increase spending?
-- **Example:**  
+
+<br>
+
+- [**Example:** ]() 
   - A telecom company builds a churn prediction model based on variables like monthly spend, call-center contacts, delinquency, product count, billing problems, and relationship length.
+
 
   <br><br>
 
-#### 2. Unsupervised Learning (Clustering and Association)
+#### 2. [Unsupervised Learning (Clustering and Association)]()
 
 <br>
 
 - No target label; seeks hidden patterns and homogeneous groups.
+
 - Answers questions like:
     - What customer profiles exist in our investment portfolio?
     - What cities are similar for marketing test purposes?
     - What school clusters can be formed based on educational indicators?
-- **Example:**  
+
+<br>
+
+- [**Example:**]()  
   - A credit card brand segments its cardholders by the types of establishments where cards are used, resulting in finely differentiated customer groups.
+
 
 <br><br>
 
-### Example: Unsupervised Segmentation Profiles
 
-| Segment                        | % of Base |
+### [Example: Unsupervised Segmentation Profiles]()
+
+<br>
+
+| [Segment]()                    | [% of Base]() |
 |--------------------------------|-----------|
 | Traveler Elite                 | 0.3%      |
 | Basic (supermarkets, gas, pharmacy) | 7.0%  |
@@ -693,11 +726,13 @@ Statistical techniques and Machine Learning can be applied to mine the data and 
 | Health/Low/High Value          | 2.0% / 4.0%|
 | Various Mixed/Low Segments     | ...       |
 
+<br>
+
 This allows for highly targeted offers based on each segment’s preferences and behaviors.
 
 <br>
 
-## Conclusion
+## [Conclusion]()
 
 Market segmentation is a fundamental tool for identifying, prioritizing, and addressing customers’ real needs, thereby optimizing marketing resources, building loyalty, growing market share, and increasing profits. The use of advanced metrics (CLV, RFV) and analytic models (supervised/unsupervised learning) enables a data-driven, personalized approach to winning and retaining customers.
 
