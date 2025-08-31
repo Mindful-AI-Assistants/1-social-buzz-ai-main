@@ -454,11 +454,11 @@ Marketing 4.0 represents a shift from product-focused to customer-centric market
 
 > [!TIP]
 >
-> [Access Dataset]()
+> [Access Dataset](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/8f1e269838679dff388ce0e8679dd2b9dde4658e/class_3a-Code_RVF/Code/rfv.xlsx)
 >
-> [Access Code]()
+> [Access Code](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/8f1e269838679dff388ce0e8679dd2b9dde4658e/class_3a-Code_RVF/Code/RFV_ressence_frequence_value.ipynb)
 > 
-> [Access Excel Table Results]() 
+> [Access Excel Table Results](https://github.com/Mindful-AI-Assistants/social-buzz-ai/tree/8f1e269838679dff388ce0e8679dd2b9dde4658e/class_3a-Code_RVF/Code/Results%20Spread%20Sheet) 
 > 
 
 
@@ -703,6 +703,16 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 
 
 <br><br>
+
+
+
+
+
+
+
+
+
+
 
 
 
