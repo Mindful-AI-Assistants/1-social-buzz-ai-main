@@ -448,10 +448,21 @@ Marketing 4.0 represents a shift from product-focused to customer-centric market
 <br><br>
 
 
-## III - [Segmentation - RFV Code and Dataset()
+## III - [Segmentation - RFV Code and Dataset]()
 
 <br>
 
+> [!TIP]
+>
+> [Access Dataset]()
+>
+> [Access Code]()
+> 
+> [Access Excel Table Results]() 
+> 
+
+
+<br>
 
 This guide summarizes and explains the essential concepts of market segmentation presented in the attached PDF, focusing on why segmentation matters, how to perform it, important metrics like CLV and RFV, and different segmentation models.
 
