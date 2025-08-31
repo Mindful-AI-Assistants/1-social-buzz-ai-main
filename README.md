@@ -472,10 +472,13 @@ This guide summarizes and explains the essential concepts of market segmentation
 
 Segmentation allows companies to identify and prioritize the most attractive market segments and fortify their position within these segments.
 
-- **Customer Understanding:** By segmenting, companies better understand the needs and desires of different customer groups.
-- **Offer Personalization:** Enables more assertive offerings and more effective allocation of marketing efforts to the most profitable segments.
-- **Competitive Advantage:** Targeted efforts provide greater perceived value, increasing customer loyalty and referrals, which leads to greater market share and profits over time.
-- **Decreasing Marketing Effort:** As loyalty grows, less marketing effort is needed for the same or higher profitability.
+- [**Customer Understanding:**]() By segmenting, companies better understand the needs and desires of different customer groups.
+
+- [**Offer Personalization:**]() Enables more assertive offerings and more effective allocation of marketing efforts to the most profitable segments.
+
+- [**Competitive Advantage:**]() Targeted efforts provide greater perceived value, increasing customer loyalty and referrals, which leads to greater market share and profits over time.
+
+- [**Decreasing Marketing Effort:**]() As loyalty grows, less marketing effort is needed for the same or higher profitability.
 
 
 <br>
@@ -493,31 +496,50 @@ Segmentation allows companies to identify and prioritize the most attractive mar
 
 ## [The STP Model]()
 
-- **Segmentation:** Identify different audiences.
-- **Targeting:** Prioritize the most attractive segments.
-- **Positioning:** Create and communicate a competitive advantage for the selected segments.
+<br>
 
-**Virtuous STP Cycle:**  
+- [**Segmentation:**]() Identify different audiences.
+
+- [**Targeting:**]() Prioritize the most attractive segments.
+
+- [**Positioning:**]() Create and communicate a competitive advantage for the selected segments.
+
+<br>
+
+[**Virtuous STP Cycle:**]()  
+
 - Marketing focuses on customers’ real needs  
+
 - Customers perceive more value  
+
 - Loyal customers repeat purchase and refer others  
+
 - Market share increases  
+
 - Over time, marketing effort decreases and profits grow
 
 <br>
 
-## How to Segment? (Bases of Segmentation)
+## [How to Segment ?]() - Bases of Segmentation
 
-**1. Psychographic**  
+<br>
+
+[**1. Psychographic**]()   
 - Lifestyles, values, attitudes, opinions
 
-**2. Behavioral**  
+<br>
+
+[**2. Behavioral**]()   
 - Attitudes toward products, buying occasions, benefits sought, product usage
 
-**3. Demographic**  
+<br>
+
+[**3. Demographic**]()   
 - Age, gender, family size, income, occupation
 
-**4. Geographic**  
+<br>
+
+[**4. Geographic**]()   
 - Region, municipality size, population concentration, climate
 
 <br>
@@ -526,7 +548,7 @@ Segmentation allows companies to identify and prioritize the most attractive mar
 
 <br>
 
-| Criteria                     | Small Client   | Large Client   |
+| [Criteria]()                 | [Small Client]() | [Large Client]()  |
 |------------------------------|---------------|---------------|
 | Needs                        | Simpler       | More complex  |
 | Avg. Ticket                  | Lower         | Higher        |
@@ -546,7 +568,7 @@ Segmentation allows companies to identify and prioritize the most attractive mar
 
 ## [Key Metrics: CLV and RFV]()
 
-### CLV — Customer Lifetime Value
+### [CLV]()  — Customer Lifetime Value
 
 [**Definition:**]()  
 Net profit contribution of a customer across their relationship with the company.
@@ -577,7 +599,7 @@ LTV = \( 1,000 \times 2 \times 5 = \$10,000 \)
 
 
 
-## IV - [Segmentation - RFV (Ressence - Frequence - Value) and RMV (Monetary Value Code and  Project]() 
+## IV - [Segmentation - RFV]() (Ressence - Frequence - Value) and [RMV]() (Monetary Value Code and  Project 
 
 
 > [!TIP]
@@ -593,7 +615,7 @@ LTV = \( 1,000 \times 2 \times 5 = \$10,000 \)
 <br>
 
 
-### [RFV — Recency, Frequency, Value]()
+### [RFV]() — Recency, Frequency, Value
 
 - [**Recency:**]() How recently a customer made a purchase (more recent = higher score)
 
@@ -612,6 +634,8 @@ LTV = \( 1,000 \times 2 \times 5 = \$10,000 \)
 | 3         | Within last 6 months                | 11–15 times/month                    | Top 30% spenders                      |
 | 2         | Within last year                    | 6–10 times/month                     | Top 60% spenders                      |
 | 1         | More than a year ago                | Not bought last year                 | Lowest spenders                       |
+
+<br>
 
 Customers are segmented by their RFV profile, allowing for tailored marketing and relationship strategies.
 
@@ -639,7 +663,7 @@ Each group gets different marketing approaches according to their RFV profile.
 
 <br>
 
-| Metric | Usage | When to Use |
+| [Metric]() | [Usage]() | [When to Use]() |
 |--------|-------|-------------|
 | **Customer Lifetime Value (CLV)** | Measures customer’s long-term value for strategic decisions, targeted marketing, and retention. | When individual customer value is crucial for resource allocation. |
 | **Recency, Frequency, Value (RFV)** | Segments customers by recent behavior, for personalized campaigns and identifying best cross/upsell opportunities. | When tailoring communication/campaigns for groups with similar shopping behavior. |
@@ -739,11 +763,32 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 
 <br><br>
 
+ 
+## IV - []()
 
+<br>
 
+<!--
+> [!TIP]
+>
+> [Access Dataset]()
+>
+> [Access Code]()
+> 
+> [Access Excel Table Results]() 
+> 
+-->
 
+> [!TIP]
+>
+> [Access Dataset]()
+>
+> [Access Code]()
+> 
+> [Access Excel Table Results]() 
+> 
 
-
+<br>
 
 
 
