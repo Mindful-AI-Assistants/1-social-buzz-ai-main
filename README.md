@@ -553,6 +553,12 @@ LTV = \( 1,000 \times 2 \times 5 = \$10,000 \)
 
 <br><br>
 
+
+<br<br>
+
+## IV - [Segmentation - RFV (Ressence - Frequence - Value) Code and  Project]() 
+
+
 ### RFV — Recency, Frequency, Value
 
 - **Recency:** How recently a customer made a purchase (more recent = higher score)
@@ -663,29 +669,14 @@ Statistical techniques and Machine Learning can be applied to mine the data and 
 
 This allows for highly targeted offers based on each segment’s preferences and behaviors.
 
-<br><br>
+<br>
 
 ## Conclusion
 
 Market segmentation is a fundamental tool for identifying, prioritizing, and addressing customers’ real needs, thereby optimizing marketing resources, building loyalty, growing market share, and increasing profits. The use of advanced metrics (CLV, RFV) and analytic models (supervised/unsupervised learning) enables a data-driven, personalized approach to winning and retaining customers.
 
 
-
-
-
-
-
-
-
-
-<br<br>
-
-
-## IV - [Segmentation - RFV (Ressence - Frequence - Value) Code and  Project]() 
-
-
-
-
+<br><br>
 
 
 
