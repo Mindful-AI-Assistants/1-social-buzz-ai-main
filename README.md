@@ -462,11 +462,10 @@ Marketing 4.0 represents a shift from product-focused to customer-centric market
 
 
 
-
 <br<br>
 
 
-## IV - [Segmentation - RFV C0de and RFV and Project]() 
+## IV - [Segmentation - RFV (Ressence - Frequence - Value) Code and  Project]() 
 
 
 
