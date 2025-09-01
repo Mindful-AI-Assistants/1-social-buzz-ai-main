@@ -1,5 +1,11 @@
 
 <br>
+ 
+ 
+ \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
+
+
+<br>
 
 # <p align="center">  Social [Buzz AI]()
 
