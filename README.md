@@ -778,20 +778,19 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 
 > [!TIP]
 >
-> [Access Workbook](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/09d983f948f4ead89b6788806d32a1b65a265dca/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/Arvores.pdf)
+> * [Access Workbook](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/09d983f948f4ead89b6788806d32a1b65a265dca/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/Arvores.pdf)
 >
+> * [Access]() - 1-Code: Arvore + Dataset
 >
+> * [Access]() - 2-Code: Floresta + Dataset
 >
+> * [Access]() - 3-Code: Random Forest Entropy - Test Models (Adjustment Measures) + Dataset
 >
->
-> [Access Dataset]()
->
-> [Access Code]()
-> 
-> [Access Excel Table Results]() 
 > 
 
 <br>
+
+
 
 
 
