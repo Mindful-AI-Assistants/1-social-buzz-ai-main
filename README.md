@@ -777,7 +777,7 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 
 <br>
 
-### Introduction to Decision Trees
+### [Introduction to Decision Trees]()
 
 - Decision Trees, Classification Trees, and Regression Trees are models that use a response variable to divide data into groups by explanatory variables.
 - Each split or node is determined by particular values of an explanatory variable.
@@ -787,7 +787,7 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 
 > [!TIP]
 >
-> * [Access(https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/09d983f948f4ead89b6788806d32a1b65a265dca/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/Arvores.pdf) Workbook]
+> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/09d983f948f4ead89b6788806d32a1b65a265dca/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/Arvores.pdf) Workbook
 >
 > * [Access]() - 1-Code: Arvore 
 >
@@ -802,7 +802,7 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 <br><br>
 
 
-### Predicting New Cases
+### Predicting New Cases]()
 
 - Prediction is performed using hierarchical decision rules derived from the tree.
 - Important features are selected through partition search.
@@ -810,7 +810,7 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 
 <br>
 
-### Variable Selection and Splitting
+### Variable Selection and Splitting]()
 
 - The algorithm searches for useful explanatory variables by testing dichotomous splits based on distinct ordered values of continuous variables.
 - For binary response variables, 2x2 contingency tables are formed for each potential split and evaluated using Pearson's Chi-square statistic and associated p-values.
@@ -818,7 +818,7 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 
 <br>
 
-Example Dataset
+### Example Dataset]()
 
 The material includes an example dataset with variables such as:
 
@@ -831,7 +831,7 @@ This dataset is used to illustrate the tree construction and decision rules.
 
 <br>
 
-### Splitting Criteria
+### [Splitting Criteria]()
 
 - **Entropy**: Measures uncertainty in a set, calculated as \( H(S) = - \sum p_i \log_2(p_i) \). Pure nodes have entropy 0; balanced classes approach entropy 1.
 - **Gini Index**: Measures node impurity, calculated as \( G(S) = 1 - \sum p_i^2 \). Pure nodes have Gini 0; balanced classes about 0.5.
@@ -839,7 +839,7 @@ This dataset is used to illustrate the tree construction and decision rules.
 
 <br>
 
-### Tree Construction Details
+### [Tree Construction Details]()
 
 - Splits must create groups with a minimum number of elements.
 - Missing values in explanatory variables are handled during analysis.
@@ -847,14 +847,14 @@ This dataset is used to illustrate the tree construction and decision rules.
 
 <br>
 
-### Model Evaluation - Confusion Matrix
+### [Model Evaluation - Confusion Matrix]()
 
 - A confusion matrix compares observed classes with predicted classes.
 - Key concepts include True Positives (TP), True Negatives (TN), False Positives (FP), and False Negatives (FN).
 
 <br>
 
-### Performance Metrics
+### [Performance Metrics]()
 
 - **Accuracy**: Proportion of correct predictions among total cases, calculated as \( \frac{TP + TN}{TP + TN + FP + FN} \).
 - **Recall**: Proportion of correctly predicted positive cases, \( \frac{TP}{TP+FN} \).
@@ -863,7 +863,7 @@ This dataset is used to illustrate the tree construction and decision rules.
 
 <br>
 
-### Strengths and Weaknesses of Decision Trees
+### [Strengths and Weaknesses of Decision Trees]()
 
 - Strengths:
   - Human interpretable and easy to understand.
@@ -875,13 +875,14 @@ This dataset is used to illustrate the tree construction and decision rules.
 
 <br>
 
-### Random Forest
+### [Random Forest]()
 
 - An ensemble learning technique combining multiple decision trees to improve predictive performance.
 - Each tree is trained on a random subset of the training data (with replacement).
 - Only a random subset of features is considered for splitting at each node.
 - Uses out-of-bag samples for unbiased error estimation.
 - Increasing the number of trees generally reduces overfitting unless trees are highly correlated.
+
 
 
 <br><br>
