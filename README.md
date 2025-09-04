@@ -770,20 +770,11 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 <br><br>
 
  
-## IV - []()
+## IV - [Trees]() Random Forest Entropy – Test Models & Adjustment Measures
 
 <br>
 
-<!--
-> [!TIP]
->
-> [Access Dataset]()
->
-> [Access Code]()
-> 
-> [Access Excel Table Results]() 
-> 
--->
+
 
 > [!TIP]
 >
@@ -798,6 +789,49 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
+## VI - [Trees]() Soon 
+
+
+> [!TIP]
+>
+> [Access Dataset]()
+>
+> [Access Code]()
+> 
+> [Access Excel Table Results]() 
+> 
+
+<br>
 
 
 
