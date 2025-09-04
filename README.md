@@ -608,6 +608,9 @@ LTV = \( 1,000 \times 2 \times 5 = \$10,000 \)
 ## IV - [Segmentation - RFV]() (Ressence - Frequence - Value) and [RMV]() (Monetary Value Code and  Project 
 
 
+<br>
+
+
 > [!TIP]
 >
 > [Access Dataset](https://github.com/Mindful-AI-Assistants/social-buzz-ai/tree/d3bb9f535906643077e34f78ffff2bd97fb7b5ce/class_4_RFV_RMV-Monetary/dataset_RFV)
@@ -774,19 +777,19 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 
 <br>
 
-
-
 > [!TIP]
 >
 > * [Access Workbook](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/09d983f948f4ead89b6788806d32a1b65a265dca/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/Arvores.pdf)
 >
-> * [Access]() - 1-Code: Arvore + Dataset
+> * [Access]() - 1-Code: Arvore 
 >
-> * [Access]() - 2-Code: Floresta + Dataset
+> * [Access]() - 2-Code: Floresta
 >
-> * [Access]() - 3-Code: Random Forest Entropy - Test Models (Adjustment Measures) + Dataset
+> * [Access]() - 3-Code: Random Forest Entropy - Test Models (Adjustment Measures) 
 >
-> 
+> * [Access]() 
+>
+
 
 <br>
 
