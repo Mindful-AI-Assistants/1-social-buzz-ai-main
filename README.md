@@ -613,11 +613,11 @@ LTV = \( 1,000 \times 2 \times 5 = \$10,000 \)
 
 > [!TIP]
 >
-> [Access Dataset](https://github.com/Mindful-AI-Assistants/social-buzz-ai/tree/d3bb9f535906643077e34f78ffff2bd97fb7b5ce/class_4_RFV_RMV-Monetary/dataset_RFV)
+> [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/tree/d3bb9f535906643077e34f78ffff2bd97fb7b5ce/class_4_RFV_RMV-Monetary/dataset_RFV):  Dataset
 >
-> [Access Code](https://github.com/Mindful-AI-Assistants/social-buzz-ai/tree/d3bb9f535906643077e34f78ffff2bd97fb7b5ce/class_4_RFV_RMV-Monetary/Py_Code_Plots_Analysing)
+> [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/tree/d3bb9f535906643077e34f78ffff2bd97fb7b5ce/class_4_RFV_RMV-Monetary/Py_Code_Plots_Analysing):  Code
 > 
-> [Access Excel Table Results](https://github.com/Mindful-AI-Assistants/social-buzz-ai/tree/d3bb9f535906643077e34f78ffff2bd97fb7b5ce/class_4_RFV_RMV-Monetary/Excel_Table_Resut_RFV_RFM) 
+> [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/tree/d3bb9f535906643077e34f78ffff2bd97fb7b5ce/class_4_RFV_RMV-Monetary/Excel_Table_Resut_RFV_RFM):  Excel Table Results
 > 
 
 
