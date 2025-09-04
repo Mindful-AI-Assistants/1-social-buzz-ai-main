@@ -827,16 +827,16 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 <br><br>
 
 
-## VI - [X]() Building ....🏄
+## VI - [Project](): Trees - Random Forest Entropy – Test Models & Adjustment Measures
 
 
 > [!TIP]
 >
-> [Access Dataset]()
+> * [Briefing]()
 >
-> [Access Code]()
+> * [Access Code]()
 > 
-> [Access Excel Table Results]() 
+> * [Access Dataset]()
 > 
 
 <br>
