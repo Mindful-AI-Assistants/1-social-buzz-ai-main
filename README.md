@@ -460,11 +460,11 @@ Marketing 4.0 represents a shift from product-focused to customer-centric market
 
 > [!TIP]
 >
-> [Access Dataset](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/8f1e269838679dff388ce0e8679dd2b9dde4658e/class_3a-Code_RVF/Code/rfv.xlsx)
+> [Accesst](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/8f1e269838679dff388ce0e8679dd2b9dde4658e/class_3a-Code_RVF/Code/rfv.xlsx):  Datase
 >
-> [Access Code](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/8f1e269838679dff388ce0e8679dd2b9dde4658e/class_3a-Code_RVF/Code/RFV_ressence_frequence_value.ipynb)
+> [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/8f1e269838679dff388ce0e8679dd2b9dde4658e/class_3a-Code_RVF/Code/RFV_ressence_frequence_value.ipynb): Code
 > 
-> [Access Excel Table Results](https://github.com/Mindful-AI-Assistants/social-buzz-ai/tree/8f1e269838679dff388ce0e8679dd2b9dde4658e/class_3a-Code_RVF/Code/Results%20Spread%20Sheet) 
+> [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/tree/8f1e269838679dff388ce0e8679dd2b9dde4658e/class_3a-Code_RVF/Code/Results%20Spread%20Sheet):  Excel Table Results 
 > 
 
 
@@ -787,22 +787,22 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 
 > [!TIP]
 >
-> * [Access]:(https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/09d983f948f4ead89b6788806d32a1b65a265dca/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/Arvores.pdf) Workbook
+> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/09d983f948f4ead89b6788806d32a1b65a265dca/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/Arvores.pdf): Workbook
 > 
-> * [Access]:(https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/7f84645ffc5ba769daf37c411f1e8bf15d972ef7/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/1-Code_Arvore%2BDataset/Arvore.ipynb) 1-Code: Arvore 
+> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/7f84645ffc5ba769daf37c411f1e8bf15d972ef7/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/1-Code_Arvore%2BDataset/Arvore.ipynb): 1- Code: Arvore 
 >
-> * [Access](): - 2-Code: Floresta
+> * [Access]():  2- Code: Floresta
 >
-> * [Access](): - 3-Code: Random Forest Entropy - Test Models (Adjustment Measures) 
+> * [Access]():  3- Code: Random Forest Entropy - Test Models (Adjustment Measures) 
 >
-> * [Access](): - Dataset
+> * [Access]():  Dataset
 >
 
  
 <br><br>
 
 
-### Predicting New Cases]()
+### [Predicting New Cases]()
 
 - Prediction is performed using hierarchical decision rules derived from the tree.
 - Important features are selected through partition search.
@@ -810,7 +810,7 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 
 <br>
 
-### Variable Selection and Splitting]()
+### [Variable Selection and Splitting]()
 
 - The algorithm searches for useful explanatory variables by testing dichotomous splits based on distinct ordered values of continuous variables.
 - For binary response variables, 2x2 contingency tables are formed for each potential split and evaluated using Pearson's Chi-square statistic and associated p-values.
@@ -818,7 +818,7 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 
 <br>
 
-### Example Dataset]()
+### [Example Dataset]()
 
 The material includes an example dataset with variables such as:
 
@@ -895,11 +895,11 @@ This dataset is used to illustrate the tree construction and decision rules.
 
 > [!TIP]
 >
-> * [Briefing]:()
+> * [Briefing]():
 >
-> * [Access]:() Code
+> * [Access](): Code
 > 
-> * [Access]:() Dataset
+> * [Access](): Dataset
 > 
 
 
