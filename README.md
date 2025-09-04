@@ -789,13 +789,13 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 >
 > * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/09d983f948f4ead89b6788806d32a1b65a265dca/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/Arvores.pdf): Workbook
 > 
-> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/7f84645ffc5ba769daf37c411f1e8bf15d972ef7/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/1-Code_Arvore%2BDataset/Arvore.ipynb): 1- Code: Arvore 
+> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/7f84645ffc5ba769daf37c411f1e8bf15d972ef7/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/1-Code_Arvore%2BDataset/Arvore.ipynb): 1- Code: Tree
 >
-> * [Access]():  2- Code: Floresta
+> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/f4143ec2b1fe1dbc9660defc7b30bec2d3eee46b/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/2-Code_Floresta%2BDataset/Floresta%20(1).ipynb):  2- Code: Forest
 >
-> * [Access]():  3- Code: Random Forest Entropy - Test Models (Adjustment Measures) 
+> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/f4143ec2b1fe1dbc9660defc7b30bec2d3eee46b/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/3-Code_RandomForestEntropy%20_Test%20Models_%20Adjustment%20Measures%2BDataset/RandomForestEntropy__Test_Models__Adjustment_Measures.ipynb):  3- Code: Random Forest Entropy - Test Models (Adjustment Measures) 
 >
-> * [Access]():  Dataset
+> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/f4143ec2b1fe1dbc9660defc7b30bec2d3eee46b/class_5-Trees-Random%20Forest%20Entropy-Test%20Models-Adjustment%20Measures/Workbook_Trees-%20Randon%20Forest%20-%20Entropy%20-%20Test%20Models%20Workbook/dataset_Varejo/Varejo.csv):  Dataset
 >
 
  
