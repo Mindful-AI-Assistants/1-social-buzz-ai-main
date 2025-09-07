@@ -954,7 +954,28 @@ Rules for Entropy Decision Tree:
 
 <br>
 
+```mermaid
+%%{ init: { 'theme': 'dark', 'themeVariables': { 
+    'primaryColor': '#1e1e1e',
+    'primaryTextColor': '#ffffff',
+    'edgeLabelBackground':'#222222',
+    'tertiaryColor': '#333333'
+}} }%%
 
+flowchart TB
+    A["x14 <= 2.50"] -->|True| B["x14 <= 1.50"]
+    A -->|False| C["class = 3<br/>gini = 0.0<br/>samples = 28<br/>value = [0,0,28]"]
+
+    B -->|True| D["class = 1<br/>gini = 0.0<br/>samples = 26<br/>value = [26,0,0]"]
+    B -->|False| E["class = 2<br/>gini = 0.0<br/>samples = 26<br/>value = [0,26,0]"]
+
+    %% Cores específicas para as classes
+    style D fill:#d96d00,stroke:#ffffff,stroke-width:1px,color:#fff
+    style E fill:#2ecc71,stroke:#ffffff,stroke-width:1px,color:#fff
+    style C fill:#9b59b6,stroke:#ffffff,stroke-width:1px,color:#fff
+    style A fill:#34495e,stroke:#ffffff,stroke-width:1px,color:#fff
+    style B fill:#34495e,stroke:#ffffff,stroke-width:1px,color:#fff
+```
 
 <br><br>
 
