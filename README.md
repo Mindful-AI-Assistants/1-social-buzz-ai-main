@@ -605,7 +605,7 @@ LTV = \( 1,000 \times 2 \times 5 = \$10,000 \)
 
 
 
-## IV - [Segmentation - RFV]() (Ressence - Frequence - Value) and [RMV]() (Monetary Value Code and  Project 
+## IV - [Project - Segmentation - RFV]() (Ressence - Frequence - Value) and [RMV]() (Monetary Value Code and  Project 
 
 
 <br>
@@ -903,6 +903,14 @@ This dataset is used to illustrate the tree construction and decision rules.
 > 
 
 <br><br>
+
+
+## VII - [X]() - XX
+
+
+
+
+
 
 
 
