@@ -888,7 +888,7 @@ This dataset is used to illustrate the tree construction and decision rules.
 <br><br>
 
 
-## VI - [Project](): Trees - Random Forest Entropy – Test Models & Adjustment Measures
+## VI - [Project Trees]():  Random Forest Entropy – Test Models & Adjustment Measures
 
 <br><br>
 
