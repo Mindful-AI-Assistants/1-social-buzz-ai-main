@@ -154,7 +154,7 @@ social-buzz-ai/
 
 <br><br>
 
-## I - [Data-Driven Culture and CRM Data Quality]()  
+# I - [Data-Driven Culture and CRM Data Quality]()  
 
 
 <br>
@@ -252,7 +252,7 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 <br><br>
 
 
-## II - [Marketing 4.0]()
+# II - [Marketing 4.0]()
 
 <br>
 
@@ -454,7 +454,7 @@ Marketing 4.0 represents a shift from product-focused to customer-centric market
 <br><br>
 
 
-## III - [Segmentation - RFV Code and Dataset]()
+# III - [Segmentation - RFV Code and Dataset]()
 
 <br>
 
@@ -605,7 +605,7 @@ LTV = \( 1,000 \times 2 \times 5 = \$10,000 \)
 
 
 
-## IV - [Project - Segmentation - RFV]() (Ressence - Frequence - Value) and [RMV]() (Monetary Value Code and  Project 
+# IV - [Project - Segmentation - RFV]() (Ressence - Frequence - Value) and [RMV]() (Monetary Value Code and  Project 
 
 
 <br>
@@ -773,7 +773,7 @@ Market segmentation is a fundamental tool for identifying, prioritizing, and add
 <br><br>
 
  
-## V - [Trees -]() Random Forest Entropy [–]() Test Models & Adjustment Measures
+# V - [Trees -]() Random Forest Entropy [–]() Test Models & Adjustment Measures
 
 <br>
 
@@ -888,7 +888,7 @@ This dataset is used to illustrate the tree construction and decision rules.
 <br><br>
 
 
-## VI - [Project Trees]():  Random Forest Entropy – Test Models & Adjustment Measures
+# VI - [Project Trees]():  Random Forest Entropy – Test Models & Adjustment Measures
 
 <br><br>
 
@@ -902,10 +902,11 @@ This dataset is used to illustrate the tree construction and decision rules.
 > * [Access](): Code - Result
 > 
 
+
 <br><br>
 
 
-## VII - [X]() - XX
+# VII - [X]() - XX
 
 
 
