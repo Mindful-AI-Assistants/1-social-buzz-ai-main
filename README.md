@@ -613,13 +613,13 @@ LTV = \( 1,000 \times 2 \times 5 = \$10,000 \)
 
 > [!TIP]
 >
-> [Access](): Briefing
+> [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/f0775f5a14db84c114d45766a066655874d91c9d/class_4_Project_RFV_RMV-Monetary/1-Briefing.png): Briefing
 >
-> [Access]():  Dataset
+> [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/f0775f5a14db84c114d45766a066655874d91c9d/class_4_Project_RFV_RMV-Monetary/dataset_RFV/RVF_Project.xlsx): Dataset: RVF_RMV_Project.xlsx
 >
-> [Access]():  Code Result
+> [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/f0775f5a14db84c114d45766a066655874d91c9d/class_4_Project_RFV_RMV-Monetary/Py_Code_Plots_Analysing/Py_Code_Plots_Analysing.ipynb):  Code Result
 > 
-> [Access]():  Excel Table Results
+> [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/f0775f5a14db84c114d45766a066655874d91c9d/class_4_Project_RFV_RMV-Monetary/Excel_Table_Resut_RFV_RFM/Excel_Table_Resut_RFV_RFM.numbers):  Excel Table Results
 > 
 
 
