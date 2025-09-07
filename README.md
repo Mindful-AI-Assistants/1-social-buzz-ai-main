@@ -904,6 +904,57 @@ This dataset is used to illustrate the tree construction and decision rules.
 > * [Access](): Code - Result
 > 
 
+<br><br>
+
+### Decision Tree Rules [Displayed in Text Format]()
+
+<br>
+
+```python
+from sklearn.tree import export_text
+
+# Export and print rules for the Gini Decision Tree
+gini_rules = export_text(gini_tree, feature_names=list(X.columns))
+print("Rules for Gini Decision Tree:")
+print(gini_rules)
+
+# Export and print rules for the Entropy Decision Tree
+entropy_rules = export_text(entropy_tree, feature_names=list(X.columns))
+print("\nRules for Entropy Decision Tree:")
+print(entropy_rules)
+```
+
+<br>
+
+
+```markdown
+Rules for Gini Decision Tree:
+|--- x14 <= 2.50
+|    |--- x14 <= 1.50
+|    |    |--- class: 1
+|    |--- x14 > 1.50
+|    |    |--- class: 2
+|--- x14 > 2.50
+|    |--- class: 3
+
+Rules for Entropy Decision Tree:
+|--- x14 <= 2.50
+|    |--- x14 <= 1.50
+|    |    |--- class: 1
+|    |--- x14 > 1.50
+|    |    |--- class: 2
+|--- x14 > 2.50
+|    |--- class: 3
+```
+
+<br><br>
+
+### Decision Tree Rules [Displayed in Diagram Format]()
+
+
+<br>
+
+
 
 <br><br>
 
