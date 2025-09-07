@@ -897,12 +897,14 @@ This dataset is used to illustrate the tree construction and decision rules.
 
 > [!TIP]
 >
-> * [[Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/00b307e9fe29c3ee654f335d501aceaeee46d453/class_6-Project_Trees-Random%20Forest%20Entropy-Test%20Models/dataset_Biscobis/1-Briefing.png): Briefing
+> * [[Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/e2b6a39db20b66d4a92bf5f89f3dabc829ee3413/class_6-Project_Trees-Random%20Forest%20Entropy-Test%20Models/dataset_Biscobis/Briefing/1-Briefing.png): Briefing
 > 
-> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/87be083cda3d3d231366581bd31bb490623882bb/class_6-Project_Trees-Random%20Forest%20Entropy-Test%20Models/dataset_Biscobis/Biscobis.csv): Dataset
+> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/e2b6a39db20b66d4a92bf5f89f3dabc829ee3413/class_6-Project_Trees-Random%20Forest%20Entropy-Test%20Models/dataset_Biscobis/dataset_Biscobis/Biscobis.csv): Dataset
 > 
-> * [Access](): Code - Result
+> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/e2b6a39db20b66d4a92bf5f89f3dabc829ee3413/class_6-Project_Trees-Random%20Forest%20Entropy-Test%20Models/dataset_Biscobis/Code_Project_Trees_Random_Forest_Entropy_Test_Models/Code_Project_Trees_Random_Forest_Entropy_Test_Models.ipynb): Code Result + Code Analysing + Plots
 > 
+> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/e2b6a39db20b66d4a92bf5f89f3dabc829ee3413/class_6-Project_Trees-Random%20Forest%20Entropy-Test%20Models/dataset_Biscobis/Diagram/Diagram-Decision%20Tree%20(Gini%20Criterion).svg): Diagram Svg
+>
 
 <br><br>
 
