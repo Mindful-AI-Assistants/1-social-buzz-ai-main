@@ -895,7 +895,7 @@ This dataset is used to illustrate the tree construction and decision rules.
 
 > [!TIP]
 >
-> * [Briefing]():
+> * [[Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/00b307e9fe29c3ee654f335d501aceaeee46d453/class_6-Project_Trees-Random%20Forest%20Entropy-Test%20Models/dataset_Biscobis/1-Briefing.png): Briefing
 >
 > * [Access](): Code
 > 
