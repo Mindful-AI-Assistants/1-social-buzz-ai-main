@@ -982,7 +982,7 @@ flowchart TB
 <br><br>
 
 
-# VII - [1st Test - 2 Semester 2025]() - XX
+# VII - [1st Test - 2 Semester 2025]() 
 
 
 
@@ -1002,6 +1002,49 @@ flowchart TB
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+# VIII -[XXXX]() 
 
 
 
