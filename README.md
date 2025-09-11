@@ -997,7 +997,7 @@ flowchart TB
 > * Access: [Answer_1_Code](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/645d43d771fbe8ac750a7e1e3f5259d5e93ffbee/class_7-1st_Test_RandonForest_Entropy_Trees/Answer_1/1st_Answer_Test.ipynb) + [Dataset](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/44fcc36aa067fc339f9debbbaf94b41b19e1d7e7/class_7-1st_Test_RandonForest_Entropy_Trees/Answer_1/Credito.csv)
 >
 > 
-> * Access: [Answer_2_Code]() + [Dataset]()
+> * Access: [Answer_2_Code](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/a31535e13a3cc11a7e25e0670c3df0c3497293a5/class_7-1st_Test_RandonForest_Entropy_Trees/Answer_2/2_Answer.ipynb) + [Dataset]()
 >
 > 
 > * Access: [Answer_3_Code]() + [Dataset]()
