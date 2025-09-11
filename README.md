@@ -982,66 +982,31 @@ flowchart TB
 <br><br>
 
 
-# VII - [1st Test - 2 Semester 2025]() 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# VII - [1st Test - 2 Semester 2025]() - Random Forest, Entropy and Trees
 
 
 <br><br>
-<br><br>
-<br><br>
+
+
+
+> [!TIP]
+>
+> * [Access]
+>
+> * [Access]
+>
+> * [Access]
+>
+> * [Access]
+>   
+
+
+
+
+
+
+
+
 <br><br>
 
 # VIII -[XXXX]() 
