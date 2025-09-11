@@ -991,7 +991,7 @@ flowchart TB
 
 > [!TIP]
 >
-> * [Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/8dc072f25af59480c4672e5ff9869becf8f5cc22/class_7-1st_Test_RandonForest_Entropy_Trees/1st_Test_Briefing.pdf) - Briefing (Questions)
+> * [Access - Briefing](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/8dc072f25af59480c4672e5ff9869becf8f5cc22/class_7-1st_Test_RandonForest_Entropy_Trees/1st_Test_Briefing.pdf)  (Questions)
 >
 > 
 > * Access: [Answer_1_Code](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/645d43d771fbe8ac750a7e1e3f5259d5e93ffbee/class_7-1st_Test_RandonForest_Entropy_Trees/Answer_1/1st_Answer_Test.ipynb) + [Dataset](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/44fcc36aa067fc339f9debbbaf94b41b19e1d7e7/class_7-1st_Test_RandonForest_Entropy_Trees/Answer_1/Credito.csv)
