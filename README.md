@@ -1000,7 +1000,7 @@ flowchart TB
 > * Access: [Answer_2_Code](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/a31535e13a3cc11a7e25e0670c3df0c3497293a5/class_7-1st_Test_RandonForest_Entropy_Trees/Answer_2/2_Answer.ipynb) + [Dataset](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/816cd1bb0661ee91594330726117c48a851e0678/class_7-1st_Test_RandonForest_Entropy_Trees/Answer_2/Campanha_MKT.csv)
 >
 > 
-> * Access: [Answer_3_Code](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/b8e2783deeef75e6fb7f40ffb7bb1056b0db8273/class_7-1st_Test_RandonForest_Entropy_Trees/Answer_3/Answer_3.ipynb) + [Dataset]()
+> * Access: [Answer_3_Code](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/b8e2783deeef75e6fb7f40ffb7bb1056b0db8273/class_7-1st_Test_RandonForest_Entropy_Trees/Answer_3/Answer_3.ipynb) + [Dataset](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/252cf9dadb13d179d99ed3cd173fbe44e020bc5a/class_7-1st_Test_RandonForest_Entropy_Trees/Answer_3/prcancer.xlsx)
 >   
 
 
