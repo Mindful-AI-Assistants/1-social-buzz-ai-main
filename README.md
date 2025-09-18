@@ -1005,14 +1005,50 @@ flowchart TB
 
 
 
+<br><br>
 
-
-
+# VIII -[Gradient Boosting Machines and Low-Default Modeling]() 
 
 
 <br><br>
 
-# VIII -[XXXX]() 
+> [!TIP]
+>
+> * [[Access]() Detailed Repository
+>
+> * [[Access]() class_8 Full Content (Workbook, Datraset, Code
+>
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
