@@ -1018,7 +1018,7 @@ flowchart TB
 
 > [!TIP]
 >
-> * [[Access]() Detailed Repository
+> * [[Access](https://github.com/Mindful-AI-Assistants/social-buzz-ai-GBoost-and-LowDefault-Modeling) Detailed Repository
 >
 > * [Access]() class 8 Full Content - Workbook, Datraset and Code
 >
