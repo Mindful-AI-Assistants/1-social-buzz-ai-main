@@ -581,13 +581,17 @@ Net profit contribution of a customer across their relationship with the company
 
 <br>
 
-
-\[
+$$
+\Huhe
 \text{LTV} = \text{Average Ticket} \times \text{Average No. Transactions/Year} \times \text{Average Years of Relationship}
-\]
-\[
+$$
+
+<br><br>
+
+$$
+\Huge
 \text{CLV} = \text{LTV} \times \text{Company Profit Margin}
-\]
+$$
 
 
 <br>
